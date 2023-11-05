@@ -1,0 +1,9 @@
+a {
+  text-decoration: none;
+  p {
+    transition: 0.8s all;
+  }
+  &:hover p {
+    color: red;
+  }
+}
